@@ -25,3 +25,4 @@ THEN I find a concise, descriptive title
 C:\Users\jz000\OneDrive\Desktop\Homework\Refactor-SEO\Horiseon Screenshot 2022-11-20.png
 
 ## Deployed Link
+https://jackiezheng1998.github.io/Refactor-SEO/
